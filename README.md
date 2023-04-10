@@ -4,7 +4,10 @@ Homework-10 Note Taker App
 Note Taker App using express js
 
 - ['Note-Taker - Git Hub'](https://github.com/gpaul12/Express.js-Note-Taker)
-- ['Note-Taker - Demo Video']()
+
+Screenshots:
+![screenshot1](./public/assets/images/Screenshot%202023-04-10%20at%2010.53.34%20AM.png)
+![screenshot2](./public/assets/images/Screenshot%202023-04-10%20at%2010.55.07%20AM.png)
 
 ### Summary
 
