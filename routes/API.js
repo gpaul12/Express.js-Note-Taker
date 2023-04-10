@@ -20,3 +20,5 @@ route.post("/notes", (req, res) => {
   );
   res.status(200).json(savedNotes);
 });
+
+module.exports = route;
